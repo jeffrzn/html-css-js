@@ -40,3 +40,15 @@ button {
     border-radius: 3px;
     cursor: pointer;
 }
+
+.data {
+    display: none;
+}
+
+.g-signin2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 100px;
+    margin-left: -50px;
+}

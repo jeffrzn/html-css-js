@@ -1,9 +1,0 @@
-814041386602-u1p0kfu5au7vum2vbitlufh03834pdgu.apps.googleusercontent.com
-
-CLIENT ID
-
-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
-
-CLIENT SECRET
-
-GOOGLE CLOUD

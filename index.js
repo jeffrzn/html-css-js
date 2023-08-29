@@ -12,6 +12,6 @@ function signOut() {
     auth2.signOut().then(function () {
         alert("You have been signed out.");
         $(".g-signin2").css("display", "block")
-        $(".data").css("display", "none");
+        $(".data").css("display", "block");
     });
   }
